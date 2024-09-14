@@ -1,0 +1,1 @@
+Now I try to commit this file and chapter2.txt at the same time.
